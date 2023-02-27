@@ -1,0 +1,33 @@
+.container  {
+    width: 1000px;
+    margin: auto;
+
+}
+
+
+body {
+    background-color:cadetblue;
+    border: 1px solid black;
+    height: 50% ;
+    width: 50%;
+    margin: auto;
+}
+
+.logo-title{
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+   
+}
+
+.logo-title .img{
+    margin-right: 10px
+}
+
+
+.wrapper {
+    background-color:cadetblue;
+    
+}
+
+
